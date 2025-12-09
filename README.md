@@ -55,6 +55,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/madhavzanwar/madhavzanwar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+
 ### 📊 GitHub Stats
 
 <div align="center">
