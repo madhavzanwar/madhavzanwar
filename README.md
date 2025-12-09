@@ -1,36 +1,63 @@
-# 💫 About Me:
-🔭 I'm working on - Learning C language and python and building small projects to strengthen my programming fundamentals.<br>👯 I’m looking to collaborate on - Beginner-friendly open-source projects and coding practice with fellow learners.<br>🤝 I’m looking for help with - Improving my coding style in C and understanding how to contribute to open source.<br>🌱 I’m currently learning - C programming, Python, Git & GitHub basics, and problem-solving skills.<br>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madhav_zanwar?igsh=cjhrcGp6ZGl4dTM5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhavzanwar13@gmail.com) 
+<p align="center">
+  I'm Madhav — a student strengthening my programming fundamentals in C, Python, C++ and MATLAB.
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madhavzanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=madhavzanwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavzanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+### 💫 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=madhavzanwar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 I'm working on – Building small projects in **C, Python, C++ and MATLAB** to strengthen my programming fundamentals.
+- 👯 I’m looking to collaborate on – **Beginner-friendly open-source projects** and coding practice with fellow learners.
+- 🤝 I’m looking for help with – Improving my **coding style in C** and understanding how to **contribute to open source**.
+- 🌱 I’m currently learning – **Python, C++, Git & GitHub basics, and problem-solving skills** (I’ve completed core C and am regularly practicing problems).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<!--
-**madhavzanwar/madhavzanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Socials
 
-Here are some ideas to get you started:
+<div align="center">
+  <!-- Add your socials here later -->
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=madhavzanwar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=madhavzanwar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
