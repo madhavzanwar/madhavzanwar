@@ -18,7 +18,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: madhavzanwar
-          outputs: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
