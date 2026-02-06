@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hi, I'm Madhav 👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 - 🔭 I'm working on – Building small projects in **C, Python, C++ and MATLAB** to strengthen my programming fundamentals.
 - 👯 I’m looking to collaborate on – **Beginner-friendly open-source projects** and coding practice with fellow learners.
-- 🤝 I’m looking for help with – Improving my **coding style in C** and understanding how to **contribute to open source**.
+- 🤝 Currently improving my coding style in C and learning how to contribute to open-source projects.
 - 🌱 I’m currently learning – **Python, C++, Git & GitHub basics, and problem-solving skills** (I’ve completed core C and am regularly practicing problems).
 
 ---
