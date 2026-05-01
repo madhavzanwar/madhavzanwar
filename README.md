@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Madhav 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AIML+Student;Problem+Solver;Tech+Enthusiast;Building+Projects+%26+Learning+DSA;Future+GSoC+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AIML+Student;Problem+Solver;Tech+Enthusiast;Building+Projects+%26+Learning+DSA />
 </p>
 
 <p align="center">
