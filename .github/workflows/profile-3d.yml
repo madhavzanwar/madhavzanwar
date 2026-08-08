@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     name: generate 3d contribution calendar
     steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+
       - name: generate github-contribution-grid
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
