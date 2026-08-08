@@ -13,14 +13,12 @@
 
 <img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
 
-Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into working products — from real-time computer vision demos to full-stack platforms built under hackathon deadlines. I care most about projects that actually help people, especially around accessibility and social impact.
+Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into working products — from real-time computer vision demos to full-stack platforms. I care most about projects that actually help people, especially around accessibility and social impact.
 
-- 🔭 Currently building **ReadMorph**, an accessibility platform that makes documents easier to read for people with dyslexia through dyslexia-friendly typography, AI-powered simplification, and text-to-speech
-- 🏆 Actively competing in hackathons and ideathons with my team, **Algorithm Avengers**
+- 🔭 Building projects that combine AI/ML with practical, real-world use cases
 - 🌱 Strengthening my fundamentals in **Python, C++, DSA, and Git/GitHub**
 - 🧠 Focused on improving **problem-solving & logical thinking**
 - 🤝 Open to **beginner-friendly open-source contributions**
-- ⚡ Goal: Crack **GSoC 2026** and keep building strong, real-world dev skills
 
 ---
 
@@ -41,8 +39,6 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Also familiar with:** ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,6 +53,7 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -71,6 +68,7 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 ## 🚀 Featured Projects
 
 ### 🎨 QuickSketch — Real-Time Sketch Recognition AI
+🔗 [github.com/madhavzanwar/quicksketch](https://github.com/madhavzanwar/quicksketch)
 **Tech Stack:** HTML5 Canvas, CSS3, JavaScript, Flask, Flask-CORS, PyTorch, NumPy, Pillow
 - Full-stack AI web app that recognizes hand-drawn sketches in real time — draw, hit Predict, get ranked results in under a second
 - Custom-trained PyTorch CNN classifying across **16 categories**, achieving **95.9% validation accuracy** on 16,000 held-out samples
