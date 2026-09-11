@@ -7,6 +7,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Lives-India-blue" alt="Lives in India" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" alt="Languages: English & Hindi" />
+  <img src="https://komarev.com/ghpvc/?username=madhavzanwar&label=Profile%20Views&color=red" alt="Profile Views" />
+  <a href="https://drive.google.com/file/d/13CBm3TFJXFLnmvGnYJcgnU_7iMepAqPr/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-purple?style=flat&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 ## About Me
@@ -19,6 +23,8 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 - 🌱 Strengthening my fundamentals in **Python, C++, DSA, and Git/GitHub**
 - 🧠 Focused on improving **problem-solving & logical thinking**
 - 🤝 Open to **beginner-friendly open-source contributions**
+
+<br clear="right" />
 
 ---
 
@@ -67,6 +73,15 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 
 ## 🚀 Featured Projects
 
+### 🌾 Kisan Sathi — AI Smart Farming & Crop Advisory Platform
+🔗 [github.com/madhavzanwar/kisan-sathi-app](https://github.com/madhavzanwar/kisan-sathi-app) · 🌐 [Live Demo](https://kisan-sathi-app-kappa.vercel.app/)
+**Tech Stack:** React.js, FastAPI, PyTorch (ResNet18), Scikit-Learn, Google Gemini 1.5 Pro, Vercel, Render
+- Full-stack AI agri-tech platform engineered to empower farmers with real-time crop disease diagnosis, soil fertilizer calculation, and AI advisory
+- **AI Crop Diagnosis:** Custom-trained PyTorch ResNet18 CNN diagnosing plant diseases from leaf images with actionable organic and chemical treatment plans
+- **Smart Fertilizer Calculator:** Scikit-Learn Random Forest model calculating exact dosages of Urea, DAP, MOP, and Organic Compost based on soil and crop parameters
+- **AI Assistant:** Context-aware agricultural chatbot powered by Google Gemini 1.5 Pro
+- Modern glassmorphic interface built in React (Vite) with an asynchronous FastAPI backend deployed on Vercel and Render
+
 ### 🎨 QuickSketch — Real-Time Sketch Recognition AI
 🔗 [github.com/madhavzanwar/quicksketch](https://github.com/madhavzanwar/quicksketch)
 **Tech Stack:** HTML5 Canvas, CSS3, JavaScript, Flask, Flask-CORS, PyTorch, NumPy, Pillow
@@ -81,14 +96,6 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 - Resume parsing + placement readiness scoring
 - Mock interview system covering behavioral and technical rounds
 - Dashboard for skill tracking and personalized roadmap
-
-### 👤 PCA Face Recognition — MATLAB
-🔗 [github.com/madhavzanwar/PCA-Face-Recognition-MATLAB](https://github.com/madhavzanwar/PCA-Face-Recognition-MATLAB)
-**Tech Stack:** MATLAB
-- Face recognition system using PCA (Eigenfaces)
-- Implemented Eigenfaces-based recognition with feature extraction
-- Achieved **93.75% accuracy** on the ORL dataset
-- Applied dimensionality reduction & face reconstruction
 
 ---
 
@@ -109,8 +116,8 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madhavzanwar&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=madhavzanwar&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=madhavzanwar&theme=dracula" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=madhavzanwar&show_icons=true&theme=dracula" height="160"/>
 </p>
 
 ---
@@ -118,10 +125,16 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/madhav-zanwar-395ba1389/">
+  <a href="https://www.linkedin.com/in/madhav-zanwar-395ba1389/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Madhav%20Zanwar-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/u/madhav_builds/">
+  <a href="mailto:madhavzanwar13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-madhavzanwar13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/madhav_builds/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-madhav_builds-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://drive.google.com/file/d/13CBm3TFJXFLnmvGnYJcgnU_7iMepAqPr/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-8A2BE2?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
 </p>
