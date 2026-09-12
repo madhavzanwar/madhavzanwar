@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Lives-India-blue" alt="Lives in India" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" alt="Languages: English & Hindi" />
   <img src="https://komarev.com/ghpvc/?username=madhavzanwar&label=Profile%20Views&color=red" alt="Profile Views" />
+  <a href="https://madhavzanwar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://drive.google.com/file/d/13CBm3TFJXFLnmvGnYJcgnU_7iMepAqPr/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-purple?style=flat&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
@@ -125,6 +128,9 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://madhavzanwar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-madhavzanwar.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/madhav-zanwar-395ba1389/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Madhav%20Zanwar-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
