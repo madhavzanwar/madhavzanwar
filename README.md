@@ -11,7 +11,7 @@
   <a href="https://madhavzanwar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/13CBm3TFJXFLnmvGnYJcgnU_7iMepAqPr/view?usp=sharing" target="_blank">
+  <a href="https://madhavzanwar.vercel.app/Madhav_Zanwar_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-purple?style=flat&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -76,29 +76,32 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
 
 ## 🚀 Featured Projects
 
-### 🌾 Kisan Sathi — AI Smart Farming & Crop Advisory Platform
-🔗 [github.com/madhavzanwar/kisan-sathi-app](https://github.com/madhavzanwar/kisan-sathi-app) · 🌐 [Live Demo](https://kisan-sathi-app-kappa.vercel.app/)
-**Tech Stack:** React.js, FastAPI, PyTorch (ResNet18), Scikit-Learn, Google Gemini 1.5 Pro, Vercel, Render
-- Full-stack AI agri-tech platform engineered to empower farmers with real-time crop disease diagnosis, soil fertilizer calculation, and AI advisory
-- **AI Crop Diagnosis:** Custom-trained PyTorch ResNet18 CNN diagnosing plant diseases from leaf images with actionable organic and chemical treatment plans
-- **Smart Fertilizer Calculator:** Scikit-Learn Random Forest model calculating exact dosages of Urea, DAP, MOP, and Organic Compost based on soil and crop parameters
-- **AI Assistant:** Context-aware agricultural chatbot powered by Google Gemini 1.5 Pro
-- Modern glassmorphic interface built in React (Vite) with an asynchronous FastAPI backend deployed on Vercel and Render
+### 🌱 GreenYuva — Campus Climate Action App
+🔗 [github.com/madhavzanwar/green-yuva](https://github.com/madhavzanwar/green-yuva) · 🌐 [Live Demo](https://greenyuva-e56f6.web.app)
+**Tech Stack:** Flutter, Dart, Firebase, Supabase, Google Gemini
+🏆 **2nd Place — Eco Vision, CiESA PCCOE (2026)**
+- Mobile app that gets college students acting on climate: eco-tasks and quizzes to earn points, live local air quality, and a swap market for used items like textbooks
+- **15 screens** built in Flutter for Android, iOS and web, with Firebase hosting and Supabase photo storage
+- **Geofencing & GPS** show eco-tasks and swap listings only around the campus
+- Pulls live **CPCB air-quality** data and **IMD weather alerts**; a Gemini tutor gives zero-waste tips
 
-### 🎨 QuickSketch — Real-Time Sketch Recognition AI
-🔗 [github.com/madhavzanwar/quicksketch](https://github.com/madhavzanwar/quicksketch)
-**Tech Stack:** HTML5 Canvas, CSS3, JavaScript, Flask, Flask-CORS, PyTorch, NumPy, Pillow
-- Full-stack AI web app that recognizes hand-drawn sketches in real time — draw, hit Predict, get ranked results in under a second
-- Custom-trained PyTorch CNN classifying across **16 categories**, achieving **95.9% validation accuracy** on 16,000 held-out samples
-- Trained on the Google Quick Draw dataset (.npy bitmap format), returning ranked predictions with confidence scores
-- Built end-to-end: HTML5 Canvas frontend + Flask/Flask-CORS backend serving the PyTorch model
+### 💰 FinPilot — Personal Finance Copilot
+🔗 [github.com/madhavzanwar/finpilot](https://github.com/madhavzanwar/finpilot)
+**Tech Stack:** Next.js, FastAPI, Firebase
+🏆 **Finalist — Hack Matrix Hackathon, PCCOE (2026)**
+- Finance assistant that reads a user's bank transactions, scores their financial health and predicts their balance for the next 90 days, then suggests what to change
+- **Financial health score** built from 5 weighted pillars, including savings, liquid reserves and debt pressure
+- Forecasts cash flow with a **Monte Carlo simulation of 1,000 runs**, giving a likely range instead of one guess
+- Every answer is split into checked facts, predictions with confidence ranges, and actions ranked by impact
 
-### 🧠 Placement AI — AI-Powered Placement Prep Platform
-🔗 [github.com/madhavzanwar/placement-ai](https://github.com/madhavzanwar/placement-ai)
-**Tech Stack:** Flask, HTML, CSS, JavaScript + AI integration
-- Resume parsing + placement readiness scoring
-- Mock interview system covering behavioral and technical rounds
-- Dashboard for skill tracking and personalized roadmap
+### 🎙️ Vocalyze — Anonymous Employee Feedback Platform
+🔗 [github.com/madhavzanwar/vocalyze](https://github.com/madhavzanwar/vocalyze)
+**Tech Stack:** Next.js, TypeScript, Supabase, pgvector, Google Gemini
+🏆 **1st Place — Synapse 1.0, Finance domain, SIT Pune (2026)**
+- Employees report workplace problems by text, voice note or a photo of a paper slip without revealing who they are; HR gets a dashboard to review and act on them
+- **AI pipeline** translates 40+ languages, strips names and phone numbers, and tags theme, urgency and risk
+- **Anonymity enforced in the database:** identity blocked, raw text deleted, audio never stored
+- HR asks questions in plain English via **RAG search (pgvector)** that cites the exact feedback
 
 ---
 
@@ -140,7 +143,7 @@ Hello! I'm **Madhav Zanwar**, an AI/ML student who enjoys turning ideas into wor
   <a href="https://leetcode.com/u/madhav_builds/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-madhav_builds-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://drive.google.com/file/d/13CBm3TFJXFLnmvGnYJcgnU_7iMepAqPr/view?usp=sharing" target="_blank">
+  <a href="https://madhavzanwar.vercel.app/Madhav_Zanwar_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-8A2BE2?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
 </p>
